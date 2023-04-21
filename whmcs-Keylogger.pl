@@ -14,7 +14,7 @@ if(@ARGV < 1){
    "|-   -|___|   __| . |  _| | | | .'|  _| . | -_| . |___|   __| . |  _||",
    "|__|__|   |__|  |___|_| |_____|__,|_| |___|___|___|   |__|  |___|_|  |",
    "[+] whmcs xSs Keylogger                                              |",
-   "[+] by Or4ngM4n[S4udiT3rr0rist] [S4E-T34M]                           |",
+   "[+] by Or4ngM4n[              ] [S4E-T34M]                           |",
    "[+] Copyright [sec4ever team & Mamber]                               |",
    "[+] perl whmcs-Keylogger.pl -logger <= logger panel admin            |",
    "[+] perl whmcs-Keylogger.pl -s4ever <= about tool +thanks            |",
